@@ -1,0 +1,11 @@
+**/.vs
+**/.git
+**/bin
+**/obj
+**/.idea
+**/.vscode
+**/node_modules
+**/Thumbs.db
+**/desktop.ini
+$Recycle.Bin/
+System Volume Information/
